@@ -5,7 +5,7 @@
 
 - 📫 Cách liên hệ với tôi **dungnkpp03118@gmail.com**
 
-- 📄 Tìm hiểu về kinh nghiệm của tôi [Java Spring, Java Swing, HTML, CSS, JavaScript, Vue.js, GitHub, JSP, JPA, OOP, Spring boot, dự án Agile, MySQL, SQL Server, WordPress](Java Spring, Java Swing, HTML, CSS, JavaScript, Vue.js, GitHub, JSP, JPA, OOP, Spring boot, dự án Agile, MySQL, SQL Server, WordPress)
+- 📄 Tìm hiểu về kinh nghiệm của tôi (Java Spring, Java Swing, HTML, CSS, JavaScript, Vue.js, GitHub, JSP, JPA, OOP, Spring boot, dự án Agile, MySQL, SQL Server, WordPress)
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
