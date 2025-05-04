@@ -3,7 +3,7 @@
 
 - 👨‍💻 Tất cả các dự án của tôi đều có sẵn tại GitHub [https://github.com/kimanhdung1501](https://github.com/kimanhdung1501)
 
-- 📫 Cách liên hệ với tôi **dungnkpp03118@gmail.com**
+- 📫 Cách liên hệ với tôi **nguyenkimdung1501@gmail.com**
 
 - 📄 Tìm hiểu về kinh nghiệm của tôi (Java Spring, Java Swing, HTML, CSS, JavaScript, Vue.js, GitHub, JSP, JPA, OOP, Spring boot, dự án Agile, MySQL, SQL Server, WordPress)
 
